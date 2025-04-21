@@ -77,3 +77,5 @@ fs.readdirSync(pagesDir).forEach(file => {
 })
 
 console.log('✅ Build')
+
+// test commit
